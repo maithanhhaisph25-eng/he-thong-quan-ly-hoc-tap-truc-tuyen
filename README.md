@@ -9,7 +9,7 @@ Dự án xây dựng nền tảng học tập trực tuyến hỗ trợ Giảng 
 | STT | Họ và Tên | Mã sinh viên | Vai trò | Tài khoản GitHub |
 | :-: | :--- | :--- | :--- | :--- |
 | 1 | Mai Thanh Hải | 25S1020029 | Nhóm trưởng / Scrum Master / Fullstack |maithanhhaisph25@gmail.com |
-| 2 | Trần Huỳnh Minh Thảo | 25S1020100 | minhthao20061002@gmail.com |
+| 2 | Trần Huỳnh Minh Thảo | 25S1020100 |Thành viên | minhthao20061002@gmail.com |
 | 3 | Nguyễn Ngọc Nhật Quỳnh | 25S1020090 |Thành viên|nguyenquynh060606@gmail.com |
 | 4 | Bùi Thị Bích Hợp | `[Điền MSSV]` | Thành viên | buihop19092007@gmail.com |
 | 5 | Trần Thị Cẩm Nhung | 25S1080029 | Thành viên | tcamnhung93@gmail.com|
