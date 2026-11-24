@@ -17,35 +17,47 @@ Dự án xây dựng nền tảng học tập trực tuyến hỗ trợ Giảng 
 ---
 
 ## 🔗 Liên kết quản lý dự án
-* **Jira Board:** [Link Jira Space của nhóm](https://maithanhhaisph25.atlassian.net/jira/software/projects/HTQLHTTT/boards/3)
+- **Jira Board:** [Link Jira Space của nhóm](https://maithanhhaisph25.atlassian.net/jira/software/projects/HTQLHTTT/boards/3)
 
 ---
 
-##  Công nghệ dự kiến (Tech Stack)
-* **Quản lý công việc:** Jira 
-* **Quản lý mã nguồn:** Git & GitHub
-* **Công nghệ phát triển (Frontend / Backend / Database):** Đang thống nhất trong Sprint 0
+## Công nghệ dự kiến (Tech Stack)
+- **Quản lý công việc:** Jira
+- **Quản lý mã nguồn:** Git & GitHub
+- **Công nghệ phát triển (Frontend / Backend / Database):** Đang thống nhất trong Sprint 0
 
 ---
 
 ## Phạm vi chức năng chính (Product Backlog)
 
 ### Epic 01: Xác thực & Phân quyền
-* **US01:** Đăng ký và Đăng nhập hệ thống (Sinh viên, Giảng viên, Admin)
-* **US02:** Phân quyền truy cập chức năng theo vai trò người dùng
+- **US01:** Đăng ký và Đăng nhập hệ thống (Sinh viên, Giảng viên, Admin)
+- **US02:** Phân quyền truy cập chức năng theo vai trò người dùng
 
 ### Epic 02: Quản lý Khóa học & Bài học
-* **US03:** Giảng viên tạo, sửa, xóa khóa học
-* **US04:** Giảng viên thêm, sửa, xóa bài học (video/tài liệu) vào khóa học
-* **US05:** Sinh viên xem danh sách khóa học, đăng ký tham gia và học bài
+- **US03:** Giảng viên tạo, sửa, xóa khóa học
+- **US04:** Giảng viên thêm, sửa, xóa bài học (video/tài liệu) vào khóa học
+- **US05:** Sinh viên xem danh sách khóa học, đăng ký tham gia và học bài
 
 ### Epic 03: Quiz & Tự động chấm điểm
-* **US06:** Giảng viên tạo bài Quiz trắc nghiệm gắn với khóa học/bài học
-* **US07:** Sinh viên làm bài Quiz trực tuyến có tính giờ
-* **US08:** Hệ thống tự động chấm điểm và lưu kết quả sau khi nộp bài
+- **US06:** Giảng viên tạo bài Quiz trắc nghiệm gắn với khóa học/bài học
+- **US07:** Sinh viên làm bài Quiz trực tuyến có tính giờ
+- **US08:** Hệ thống tự động chấm điểm và lưu kết quả sau khi nộp bài
+
+---
+
+## 📄 Tài liệu phân tích & thiết kế (Sprint 0)
+- **Báo cáo kiểm tra tính thống nhất tài liệu:** [docs/consistency-audit.md](./docs/consistency-audit.md)
+- **Đặc tả Luồng người dùng (User Flow) & Giao diện (UI):** [docs/user-flow-and-ui.md](./docs/user-flow-and-ui.md)
+
+---
+
+## 🔄 Quy ước làm việc (Git & Jira)
+- **Nhánh Git:** Đẩy code và tài liệu lên nhánh `develop` (không sửa trực tiếp nhánh `main`).
+- **Jira Board:** Khi bắt đầu làm task, chuyển trạng thái từ `To Do` sang `In Progress`; khi hoàn thành, chuyển sang `Done`.
 
 ---
 
 ## 📂 Cấu trúc thư mục
-* `docs/`: Chứa tài liệu phân tích thiết kế (Use Case, ERD, SRS, báo cáo Sprint).
-* `src/`: Chứa mã nguồn ứng dụng (Frontend & Backend).
+- `docs/`: Chứa tài liệu phân tích thiết kế (Use Case, ERD, SRS, kiểm tra tính thống nhất, User Flow & UI, báo cáo Sprint).
+- `src/`: Chứa mã nguồn ứng dụng (Frontend & Backend).
