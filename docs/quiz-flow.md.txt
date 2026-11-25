@@ -1,0 +1,4 @@
+# Thiết kế luồng chức năng Quiz (Sprint 0)
+- **Người phụ trách:** Bùi Thị Bích Hợp (MSSV: 25S1020041)
+- **US06 - Giảng viên tạo bài Quiz:** Chọn khóa học -> Nhập tiêu đề, thời gian làm bài -> Thêm câu hỏi trắc nghiệm (4 đáp án A, B, C, D) và chọn đáp án đúng -> Lưu bài Quiz.
+- **US07 - Sinh viên làm bài Quiz:** Vào khóa học đã đăng ký -> Chọn bài Quiz -> Làm bài trong thời gian quy định -> Nộp bài và xem điểm ngay sau khi hoàn thành.
